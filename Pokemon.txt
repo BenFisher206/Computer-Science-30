@@ -1,0 +1,3 @@
+Bulbasaur	Grass	Poison	15.2	28	Both	16	1	1	Ivysaur
+Ivysaur	Grass	Poison	28.7	39	Both	32	2	2	Venasuar
+Venusaur	Grass	Poison	220.5	79	Both	100	3	3	None
