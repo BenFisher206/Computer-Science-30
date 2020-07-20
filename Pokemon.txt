@@ -1,3 +1,228 @@
 Bulbasaur	Grass	Poison	15.2	28	Both	16	1	1	Ivysaur
 Ivysaur	Grass	Poison	28.7	39	Both	32	2	2	Venasuar
 Venusaur	Grass	Poison	220.5	79	Both	100	3	3	None
+									
+Charmander	Fire	None	18.7	24	Both	16	1	4	Charmeleon
+Charmeleon	Fire	None	41.9	44	Both	36	2	5	Charizard
+Charizard	Fire	Flying	199.5	67	Both	100	3	6	None
+									
+Squirtle	Water	None	19.8	20	Both	16	1	7	Wartortle
+Wartortle	Water	None	49.6	39	Both	36	2	8	Blastoise
+Blastoise	Water	None	188.5	63	Both	100	3	9	None
+									
+Caterpie	Bug	None	6.4	12	Both	7	1	10	Metapod
+Metapod	Bug	None	21.8	28	Both	10	2	11	Butterfree
+Butterfree	Bug	Flying	70.5	43	Both	100	3	12	None
+									
+Weedle	Bug	Poison	7.1	12	Both	7	1	13	Kakuna
+Kakuna	Bug	Poison	22	24	Both	10	2	14	Beedrill
+Beedrill	Bug	Poison	65	39	Both	100	3	15	None
+									
+Pidgey	Normal	Flying	4	12	Both	18	1	16	Pidgeotto
+Pidgeotto	Normal	Flying	66.1	43	Both	36	2	17	Pidgeot
+Pidgeot	Normal	Flying	87.1	59	Both	100	3	18	None
+									
+Rattata	Normal	None	7.7	12	Both	20	1	19	Raticate
+Raticate	Normal	None	40.8	28	Both	100	2	20	None
+									
+Spearow	Normal	Flying	4.4	12	Both	20	1	21	Fearow
+Fearow	Normal	Flying	83.8	47	Both	100	2	22	None
+									
+Ekans	Poison	None	15.2	79	Both	22	1	23	Arbok
+Arbok	Poison	None	143.3	138	Both	100	2	24	None
+									
+Pikachu	Electric	None	13.2	16	Both	1	1	25	Raichu
+Raichu	Electric	None	66.1	31	Both	100	2	26	None
+									
+Sandshrew	Ground	None	26.5	24	Both	22	1	27	Sandslash
+Sandslash	Ground	None	65	39	Both	100	2	28	None
+									
+NidoranF	Poison	None	15.4	16	Female	16	1	29	Nidorina
+Nidorina	Poison	None	44.1	31	Female	1	2	30	Nidoqueen
+Nidoqueen	Poison	Ground	132.3	51	Female	100	3	31	None
+									
+NidoranM	Poison	None	19.8	20	Male	16	1	32	Nidorino
+Nidorino	Poison	None	43	35	Male	1	2	33	Nidoking
+Nidoking	Poison	Ground	136.7	55	Male	100	3	34	None
+									
+Clefairy	Fairy	None	16.5	24	Both	1	1	35	Clefable
+Clefable	Fairy	None	88.2	51	Both	100	2	36	None
+									
+Vulpix	Fire	None	21.8	24	Both	1	1	37	Ninetales
+Ninetales	Fire	None	43.9	43	Both	100	2	38	None
+									
+Jigglypuff	Normal	Fairy	12.1	20	Both	1	1	39	Wigglytuff
+Wigglytuff	Normal	Fairy	26.5	39	Both	100	2	40	None
+									
+Zubat	Poison	Flying	16.5	31	Both	22	1	41	Golbat
+Golbat	Poison	Flying	121.3	63	Both	100	2	42	None
+									
+Oddish	Grass	Poison	11.9	20	Both	21	1	43	Gloom
+Gloom	Grass	Poison	19	31	Both	1	2	44	Vileplume
+Vileplume	Grass	Poison	41	47	Both	100	3	45	None
+									
+Paras	Bug	Grass	11.9	12	Both	24	1	46	Parasect
+Parasect	Bug	Grass	65	39	Both	100	2	47	None
+									
+Venonat	Bug	Poison	66.1	39	Both	31	1	48	Venomoth
+Venomoth	Bug	Poison	27.6	59	Both	100	2	49	None
+									
+Diglett	Ground	None	1.8	8	Both	26	1	50	Dugtrio
+Dugtrio	Ground	None	73.4	28	Both	100	2	51	None
+									
+Meowth	Normal	None	9.3	16	Both	28	1	52	Persian
+Persian	Normal	None	70.5	39	Both	100	2	53	None
+									
+Psyduck	Water	None	43.2	31	Both	33	1	54	Golduck
+Golduck	Water	None	168.9	67	Both	100	2	55	None
+									
+Mankey	Fighting	None	61.7	20	Both	28	1	56	Primeape
+Primeape	Fighting	None	70.5	39	Both	100	2	57	None
+									
+Growlithe	Fire	None	41.9	28	Both	1	1	58	Arcanine
+Arcanine	Fire	None	341.7	63	Both	100	2	59	None
+									
+Poliwag	Water	None	27.3	24	Both	25	1	60	Poliwhirl
+Poliwhirl	Water	None	44.1	39	Both	1	2	61	Poliwrath
+Poliwrath	Water	Fighting	119	51	Both	100	3	62	None
+									
+Abra	Psychic	None	43	35	Both	16	1	63	Kadabra
+Kadabra	Psychic	None	124.6	51	Both	1	2	64	Alakazam
+Alakazam	Psychic	None	105.8	59	Both	100	3	65	None
+									
+Machop	Fighting	None	43	31	Both	28	1	66	Machoke
+Machoke	Fighting	None	155.4	59	Both	1	2	67	Machamp
+Machamp	Fighting	None	286.6	63	Both	100	3	68	None
+									
+Bellsprout	Grass	Poison	8.8	28	Both	21	1	69	Weepinbell
+Weepinbell	Grass	Poison	14.1	39	Both	1	2	70	Victreebel
+Victreebel	Grass	Poison	34.2	67	Both	100	3	71	None
+									
+Tentacool	Water	Poison	100.3	35	Both	30	1	72	Tentacruel
+Tentacruel	Water	Poison	121.3	63	Both	100	2	73	None
+									
+Geodude	Rock	Ground	44.1	16	Both	25	1	74	Graveler
+Graveler	Rock	Ground	231.5	39	Both	1	2	75	Golem
+Golem	Rock	Ground	661.4	31	Both	100	3	76	None
+									
+Ponyta	Fire	None	66.1	39	Both	40	1	77	Rapidash
+Rapidash	Fire	None	209.4	67	Both	100	2	78	None
+									
+Slowpoke	Water	Psychic	79.4	47	Both	37	1	79	Slowbro
+Slowbro	Water	Psychic	173.1	63	Both	100	2	80	None
+									
+Magnemite	Electric	Steel	13.2	12	NA	30	1	81	Magneton
+Magneton	Electric	Steel	132.3	39	NA	100	2	82	None
+									
+Farfetch'd	Normal	Flying	33.1	31	Both	100	1	83	None
+									
+Doduo	Normal	Flying	86.4	45	Both	31	1	84	Dodrio
+Dodrio	Normal	Flying	187.8	71	Both	100	2	85	None
+									
+Seel	Water	None	198.4	43	Both	34	1	86	Dewgong
+Dewgong	Water	Ice	264.6	67	Both	100	2	87	None
+									
+Grimer	Poison	None	66.1	35	Both	38	1	88	Muk
+Muk	Poison	None	66.1	47	Both	100	2	89	None
+									
+Shellder	Water	None	8.8	12	Both	1	1	90	Cloyster
+Cloyster	Water	Ice	292.1	59	Both	100	2	91	None
+									
+Gastly	Ghost	Poison	0.2	51	Both	25	1	92	Haunter
+Haunter	Ghost	Poison	0.2	63	Both	1	2	93	Gengar
+Gengar	Ghost	Poison	89.3	59	Both	100	3	94	None
+									
+Onix	Rock	Ground	463	346	Both	100	1	95	None
+									
+Drowzee	Psychic	None	71.4	39	Both	26	1	96	Hypno
+Hypno	Psychic	None	166.7	63	Both	100	2	97	None
+									
+Krabby	Water	None	14.3	16	Both	28	1	98	Kingler
+Kingler	Water	None	132.3	51	Both	100	2	99	None
+									
+Voltorb	Electric	None	22.9	20	NA	30	1	100	Electrode
+Electrode	Electric	None	146.8	47	Both	100	2	101	None
+									
+Exeggcute	Grass	Psychic	5.5	16	Both	1	1	102	Exeggutor
+Exeggutor	Grass	Psychic	264.6	79	Both	100	2	103	None
+									
+Cubone	Ground	None	14.3	16	Both	28	1	104	Marowak
+Marowak	Ground	None	99.2	39	Both	100	2	105	None
+									
+Hitmonlee	Fighting	None	109.8	59	Male	20	1	106	Hitmonchan
+Hitmonchan	Fighting	None	110.7	55	Male	100	2	107	None
+									
+Lickitung	Normal	None	144.4	47	Both	100	1	108	None
+									
+Koffing	Poison	None	2.2	24	Both	35	1	109	Weezing
+Weezing	Poison	None	20.9	47	Both	100	2	110	None
+									
+Rhyhorn	Ground	Rock	253.5	39	Both	42	1	111	Rhydon
+Rhydon	Ground	Rock	264.6	75	Both	100	2	112	None
+									
+Chansey	Normal	None	76.3	43	Female	100	1	113	None
+									
+Tangela	Grass	None	77.2	39	Both	100	1	114	None
+									
+Kangaskhan	Normal	None	176.4	87	Female	100	1	115	None
+									
+Horsea	Water	None	17.6	16	Male	32	1	116	Seadra
+Seadra	Water	None	55.1	47	Both	100	2	117	None
+									
+Goldeen	Water	None	33.1	24	Both	33	1	118	Seaking
+Seaking	Water	None	86	51	Both	100	2	119	None
+									
+Staryu	Water	None	76.1	31	NA	1	1	120	Starmie
+Starmie	Water	Psychic	176.4	43	NA	100	2	121	None
+									
+Mr. Mime	Fairy	Psychic	120	51	Both	100	1	122	None
+									
+Scyther	Bug	Flying	123.5	59	Both	100	1	123	None
+									
+Jynx	Ice	Psychic	15.2	43	Both	100	1	124	None
+									
+Electabuzz	Electric	None	220.5	35	Both	100	1	125	None
+									
+Magmar	Fire	None	18.7	47	Both	100	1	126	None
+									
+Pinsir	Bug	None	199.5	12	Both	100	1	127	None
+									
+Tauros	Normal	None	19.8	51	Both	100	1	128	None
+									
+Magikarp	Water	None	188.5	63	Both	20	1	129	Gyarados
+Gyarados	Water	Flying	6.4	59	Both	100	2	130	None
+									
+Lapras	Water	Ice	21.8	346	Both	100	1	131	None
+									
+Ditto	Normal	None	7.1	39	NA	100	1	132	None
+									
+Eevee	Normal	None	22	63	Both	1	1	133	Vaporeon, Flareon, Jolteon
+Vaporeon	Water	None	65	16	Both	100	2	134	None
+Jolteon	Electric	None	4	51	Both	100	2	135	None
+Flareon	Fire	None	66.1	20	Both	100	2	136	None
+									
+Porygon	Normal	None	87.1	47	NA	100	1	137	None
+									
+Omanyte	Rock	Water	7.7	16	Both	40	1	138	Omastar
+Omastar	Rock	Water	40.8	79	Both	100	2	139	None
+									
+Kabuto	Rock	Water	4.4	16	Both	40	1	140	Kabutops
+Kabutops	Rock	Water	83.8	39	Both	100	2	141	None
+									
+Aerodactyl	Rock	Flying	15.2	59	Both	100	1	142	None
+									
+Snorlax	Normal	None	143.3	55	Both	100	1	143	None
+									
+Articuno	Ice	Flying	66.1	24	NA	100	1	144	None
+									
+Zapdos	Electric	Flying	66.1	47	NA	100	1	145	None
+									
+Moltres	Fire	Flying	66.1	39	NA	100	1	146	None
+									
+Dratini	Dragon	None	4.4	75	Both	30	1	147	Dragonair
+Dragonair	Dragon	None	22	43	Both	55	2	148	Dragonite
+Dragonite	Dragon	Flying	83.8	39	Both	100	3	149	None
+									
+Mewtwo	Psychic	None	40.8	87	NA	100	1	150	None
+									
+Mew	Psychic	None	15.2	16	NA	100	1	151	None
